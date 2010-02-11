@@ -1,0 +1,5 @@
+inherit gnome2
+
+DESCRIPTION="LXDE input preferences"
+HOMEPAGE="http://lxde.org/"
+SRC_URI="mirror://sourceforge/lxde/${P}.tar.gz"
