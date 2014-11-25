@@ -1,5 +1,0 @@
-category: X11
-sdesc: "LXDE desktop menu files"
-ldesc: "This package provides files required to build freedesktop.org 
-menu spec-compliant desktop menus for LXDE. The files are originally 
-taken from gnome-menus, and some minor modifications were made."
