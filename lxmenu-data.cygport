@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="lxmenu-data"
-VERSION=0.1.2
+VERSION=0.1.4
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="LXDE desktop menu files"
@@ -9,4 +9,6 @@ DESCRIPTION="This package provides files required to build freedesktop.org
 menu spec-compliant desktop menus for LXDE. The files are originally taken
 from gnome-menus, and some minor modifications were made."
 HOMEPAGE="http://lxde.org/"
-SRC_URI="mirror://sourceforge/lxde/${NAME}-${VERSION}.tar.gz"
+SRC_URI="mirror://sourceforge/lxde/${NAME}-${VERSION}.tar.xz"
+
+ARCH=noarch
